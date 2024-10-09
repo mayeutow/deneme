@@ -1,6 +1,8 @@
-Kolay yoldan discorda giriş;
+Kolay yoldan discorda giriş:
+
 C:\Windows\System32\drivers\etc klasörüne girip "hosts" dosyasını masaüstüne alıyoruz
-Masaüstündeyken not defterinde açıp aşağıdakileri içine ekliyoruz;
+Masaüstündeyken not defterinde açıp aşağıdakileri içine ekliyoruz:
+
 162.159.128.233 www.discord.com
 162.159.128.233 status.discord.com
 162.159.128.233 discord.com
@@ -11,7 +13,10 @@ Masaüstündeyken not defterinde açıp aşağıdakileri içine ekliyoruz;
 162.159.129.233 discordapp.com
 162.159.128.235 latency.discord.media
 162.159.128.235 discord.media
+
 Dosyayı kaydedip tekrardan etc'nin içerisine atıyoruz ve discord yeniliyoruz
-İşe yaramadıysa;
+
+
+İşe yaramadıysa:
 ipconfig /flushdns yapın
 halen açılmıyorsa  https://discord.com/app adresinden bir kaç defa sayfayı yenileyin
